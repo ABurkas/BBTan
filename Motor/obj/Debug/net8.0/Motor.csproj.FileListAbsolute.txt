@@ -1,0 +1,12 @@
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\Motor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\Motor.AssemblyInfoInputs.cache
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\Motor.AssemblyInfo.cs
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\Motor.csproj.CoreCompileInputs.cache
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\Motor.sourcelink.json
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\bin\Debug\net8.0\Motor.deps.json
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\bin\Debug\net8.0\Motor.dll
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\bin\Debug\net8.0\Motor.pdb
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\Motor.dll
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\refint\Motor.dll
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\Motor.pdb
+C:\Users\Właściciel\Source\Repos\zad-1-kulki-i-przeszkody-ABurkas\Motor\obj\Debug\net8.0\ref\Motor.dll
